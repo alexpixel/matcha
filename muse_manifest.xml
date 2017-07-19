@@ -1,18 +1,18 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.test.com" resolutions="1x" timestamp="1500485692991">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.test.com" resolutions="1x" timestamp="1500488053020">
   <folder name="css">
     <file name="site_global.css" crc="3831263777"/>
-    <file name="master_a-master.css" crc="112629995" ref="buyer-s-guide:whisk-holder:spoon:preorder:preparation:whisk:faq:index:bowl"/>
+    <file name="master_a-master.css" crc="87902014" ref="buyer-s-guide:whisk-holder:spoon:preorder:preparation:whisk:faq:index:bowl"/>
     <file name="buyer-s-guide.css" crc="13929020" ref="buyer-s-guide"/>
     <file name="whisk-holder.css" crc="38010395" ref="whisk-holder"/>
     <file name="spoon.css" crc="354722811" ref="spoon"/>
     <file name="preorder.css" crc="3855207678" ref="preorder"/>
     <file name="preparation.css" crc="174926196" ref="preparation"/>
     <file name="whisk.css" crc="367292900" ref="whisk"/>
-    <file name="faq.css" crc="3883625366" ref="faq"/>
+    <file name="faq.css" crc="57280982" ref="faq"/>
     <file name="index.css" crc="3794570660" ref="index"/>
     <file name="bowl.css" crc="394579565" ref="bowl"/>
     <file name="nomq_preview_master_a-master.css" crc="105257971" ref="faq:spoon:bowl:preparation:preorder:index:buyer-s-guide:whisk:whisk-holder"/>
-    <file name="nomq_faq.css" crc="4031211278" ref="faq"/>
+    <file name="nomq_faq.css" crc="439422255" ref="faq"/>
     <file name="nomq_spoon.css" crc="4240151881" ref="spoon"/>
     <file name="nomq_bowl.css" crc="4279766505" ref="bowl"/>
     <file name="nomq_preparation.css" crc="261715717" ref="preparation"/>
@@ -48,48 +48,6 @@
   </folder>
   <folder name="images">
     <file name="logo_bowl.svg" crc="343487494" seo="true" ref="index:buyer-s-guide:preparation:faq:preorder:spoon:whisk:bowl:whisk-holder">
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="whisk" alt=""/>
-      <caption webpage="whisk" alt=""/>
-      <caption webpage="whisk" alt=""/>
-      <caption webpage="whisk" alt=""/>
-      <caption webpage="whisk" alt=""/>
-      <caption webpage="whisk" alt=""/>
-      <caption webpage="whisk" alt=""/>
-      <caption webpage="whisk" alt=""/>
-      <caption webpage="whisk" alt=""/>
-      <caption webpage="whisk" alt=""/>
-      <caption webpage="whisk" alt=""/>
-      <caption webpage="whisk" alt=""/>
-      <caption webpage="whisk" alt=""/>
-      <caption webpage="whisk" alt=""/>
-      <caption webpage="whisk-holder" alt=""/>
-      <caption webpage="whisk-holder" alt=""/>
-      <caption webpage="whisk-holder" alt=""/>
-      <caption webpage="whisk-holder" alt=""/>
-      <caption webpage="whisk-holder" alt=""/>
-      <caption webpage="whisk-holder" alt=""/>
-      <caption webpage="whisk-holder" alt=""/>
-      <caption webpage="whisk-holder" alt=""/>
-      <caption webpage="whisk-holder" alt=""/>
-      <caption webpage="whisk-holder" alt=""/>
-      <caption webpage="whisk-holder" alt=""/>
-      <caption webpage="whisk-holder" alt=""/>
-      <caption webpage="whisk-holder" alt=""/>
-      <caption webpage="whisk-holder" alt=""/>
       <caption webpage="spoon" alt=""/>
       <caption webpage="spoon" alt=""/>
       <caption webpage="spoon" alt=""/>
@@ -104,66 +62,34 @@
       <caption webpage="spoon" alt=""/>
       <caption webpage="spoon" alt=""/>
       <caption webpage="spoon" alt=""/>
-      <caption webpage="bowl" alt=""/>
-      <caption webpage="bowl" alt=""/>
-      <caption webpage="bowl" alt=""/>
-      <caption webpage="bowl" alt=""/>
-      <caption webpage="bowl" alt=""/>
-      <caption webpage="bowl" alt=""/>
-      <caption webpage="bowl" alt=""/>
-      <caption webpage="bowl" alt=""/>
-      <caption webpage="bowl" alt=""/>
-      <caption webpage="bowl" alt=""/>
-      <caption webpage="bowl" alt=""/>
-      <caption webpage="bowl" alt=""/>
-      <caption webpage="bowl" alt=""/>
-      <caption webpage="bowl" alt=""/>
-      <caption webpage="preorder" alt=""/>
-      <caption webpage="preorder" alt=""/>
-      <caption webpage="preorder" alt=""/>
-      <caption webpage="preorder" alt=""/>
-      <caption webpage="preorder" alt=""/>
-      <caption webpage="preorder" alt=""/>
-      <caption webpage="preorder" alt=""/>
-      <caption webpage="preorder" alt=""/>
-      <caption webpage="preorder" alt=""/>
-      <caption webpage="preorder" alt=""/>
-      <caption webpage="preorder" alt=""/>
-      <caption webpage="preorder" alt=""/>
-      <caption webpage="preorder" alt=""/>
-      <caption webpage="preorder" alt=""/>
-      <caption webpage="preorder" alt=""/>
-      <caption webpage="preorder" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="preparation" alt=""/>
-      <caption webpage="preparation" alt=""/>
-      <caption webpage="preparation" alt=""/>
-      <caption webpage="preparation" alt=""/>
-      <caption webpage="preparation" alt=""/>
-      <caption webpage="preparation" alt=""/>
-      <caption webpage="preparation" alt=""/>
-      <caption webpage="preparation" alt=""/>
-      <caption webpage="preparation" alt=""/>
-      <caption webpage="preparation" alt=""/>
-      <caption webpage="preparation" alt=""/>
-      <caption webpage="preparation" alt=""/>
-      <caption webpage="preparation" alt=""/>
-      <caption webpage="preparation" alt=""/>
-      <caption webpage="preparation" alt=""/>
-      <caption webpage="preparation" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="whisk-holder" alt=""/>
+      <caption webpage="whisk-holder" alt=""/>
+      <caption webpage="whisk-holder" alt=""/>
+      <caption webpage="whisk-holder" alt=""/>
+      <caption webpage="whisk-holder" alt=""/>
+      <caption webpage="whisk-holder" alt=""/>
+      <caption webpage="whisk-holder" alt=""/>
+      <caption webpage="whisk-holder" alt=""/>
+      <caption webpage="whisk-holder" alt=""/>
+      <caption webpage="whisk-holder" alt=""/>
+      <caption webpage="whisk-holder" alt=""/>
+      <caption webpage="whisk-holder" alt=""/>
+      <caption webpage="whisk-holder" alt=""/>
+      <caption webpage="whisk-holder" alt=""/>
       <caption webpage="buyer-s-guide" alt=""/>
       <caption webpage="buyer-s-guide" alt=""/>
       <caption webpage="buyer-s-guide" alt=""/>
@@ -178,8 +104,82 @@
       <caption webpage="buyer-s-guide" alt=""/>
       <caption webpage="buyer-s-guide" alt=""/>
       <caption webpage="buyer-s-guide" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="whisk" alt=""/>
+      <caption webpage="whisk" alt=""/>
+      <caption webpage="whisk" alt=""/>
+      <caption webpage="whisk" alt=""/>
+      <caption webpage="whisk" alt=""/>
+      <caption webpage="whisk" alt=""/>
+      <caption webpage="whisk" alt=""/>
+      <caption webpage="whisk" alt=""/>
+      <caption webpage="whisk" alt=""/>
+      <caption webpage="whisk" alt=""/>
+      <caption webpage="whisk" alt=""/>
+      <caption webpage="whisk" alt=""/>
+      <caption webpage="whisk" alt=""/>
+      <caption webpage="whisk" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preparation" alt=""/>
+      <caption webpage="preparation" alt=""/>
+      <caption webpage="preparation" alt=""/>
+      <caption webpage="preparation" alt=""/>
+      <caption webpage="preparation" alt=""/>
+      <caption webpage="preparation" alt=""/>
+      <caption webpage="preparation" alt=""/>
+      <caption webpage="preparation" alt=""/>
+      <caption webpage="preparation" alt=""/>
+      <caption webpage="preparation" alt=""/>
+      <caption webpage="preparation" alt=""/>
+      <caption webpage="preparation" alt=""/>
+      <caption webpage="preparation" alt=""/>
+      <caption webpage="preparation" alt=""/>
+      <caption webpage="preparation" alt=""/>
+      <caption webpage="preparation" alt=""/>
+      <caption webpage="bowl" alt=""/>
+      <caption webpage="bowl" alt=""/>
+      <caption webpage="bowl" alt=""/>
+      <caption webpage="bowl" alt=""/>
+      <caption webpage="bowl" alt=""/>
+      <caption webpage="bowl" alt=""/>
+      <caption webpage="bowl" alt=""/>
+      <caption webpage="bowl" alt=""/>
+      <caption webpage="bowl" alt=""/>
+      <caption webpage="bowl" alt=""/>
+      <caption webpage="bowl" alt=""/>
+      <caption webpage="bowl" alt=""/>
+      <caption webpage="bowl" alt=""/>
+      <caption webpage="bowl" alt=""/>
     </file>
-    <file name="logo_bowl_poster_.png" crc="87788909" ref="index"/>
+    <file name="logo_bowl_poster_.png" crc="87788909" ref="index:faq"/>
     <file name="video_intro_poster.jpg" crc="3788167312" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -299,7 +299,7 @@
       <caption webpage="preparation" alt=""/>
       <caption webpage="preparation" alt=""/>
     </file>
-    <file name="a-master-favicon.ico" crc="270287747" ref="index"/>
+    <file name="a-master-favicon.ico" crc="270287747" ref="index:faq"/>
     <file name="blank.gif" crc="4208392903" ref="index:buyer-s-guide:preparation:faq:preorder:spoon:whisk:bowl:whisk-holder"/>
     <file name="icon-buy-01.svg" crc="4250772511" seo="true" ref="buyer-s-guide">
       <caption webpage="buyer-s-guide" alt=""/>
@@ -648,7 +648,7 @@
   <file name="index.html" crc="221445275" seo="true" mt="1500485645899" redirect="true"/>
   <file name="buyer-s-guide.html" crc="3936232139" seo="true" mt="1500485645899" redirect="true"/>
   <file name="preparation.html" crc="3794571616" seo="true" mt="1500485645899" redirect="true"/>
-  <file name="faq.html" crc="3964830406" seo="true" mt="1500485645899" redirect="true"/>
+  <file name="faq.html" crc="398450372" seo="true" mt="1500487999627" redirect="true"/>
   <file name="preorder.html" crc="171432222" seo="true" mt="1500485645899" redirect="true"/>
   <file name="spoon.html" crc="382291297" seo="true" mt="1500485645899" redirect="true"/>
   <file name="whisk.html" crc="194045932" seo="true" mt="1500485645899" redirect="true"/>
