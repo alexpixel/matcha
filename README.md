@@ -1,3 +1,3 @@
 # matcha
 website static with muse
-## (website)['https://alexpixel.github.io/matcha']
+## [website]['https://alexpixel.github.io/matcha']
